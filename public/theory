@@ -1,0 +1,10 @@
+here we use array functions that 
+If we want lenth of an array ==> arrayname.lenth
+if we to convert array to string ==>arrayname.toString()
+if we want add end of array ==>arrayName.push("name")
+if we want remove at the end of array ==>arrayName.pop()
+if we wnat add at the first of an array ==>arrayName.unshift("name)
+if we want to remove at first of an array ==>arrayName.shift()
+if we want to show whatever the name in the array ==>arrayName.at(number)  or arrayName[number]
+if we wnat to remove or add 1 or more name at the sme time ==>arrayName.splice( at what number, how many eliments ) for removing ,arrayName(after what number,ho manynames to remove, the place of removing elments what you wanat add)
+
